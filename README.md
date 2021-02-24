@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**rohannath1/rohannath1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, 
+Rohan this side ☺
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on matlab & simulink.
+- 🌱 I’m currently learning django web framework.
+- 👯 I’m looking to collaborate on web development
+- 🤔 I’m looking for help with android application devolopement.
+- ♣ Learned basic PLC & SCADA
+- ♠ Worked as a technical co-ordinator in a small educational institute.
+- ☻ Specially worked on LMS management (MOODLE)
+- 💬 Ask me about boring jokes & poetry.
+- 📫 E-mail me at rohannath1510@gmail.com
+- ⚡ Fun fact: I write stuffs only at night.
+- 
+### Languages I can work with
+![](https://img.shields.io/badge/c-23cc59?&style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/python-2d043f?&style=for-the-badge&logo=python&logoColor=white)
