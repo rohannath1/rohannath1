@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning django web framework.
 - 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking for help with android application devolopement.
-- ♣ Learned basic PLC & SCADA
+- ♣ Learned basic **PLC & SCADA**
 - ♠ Worked as a technical co-ordinator in a small educational institute.
 - ☻ Specially worked on LMS management (MOODLE)
 - 💬 Ask me about boring jokes & poetry.
