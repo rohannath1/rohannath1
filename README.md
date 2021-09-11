@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### Languages I can work with
 ![](https://img.shields.io/badge/c-23cc59?&style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/JAVA-2d043f?&style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/html-23cc59?&style=for-the-badge&logo=html&logoColor=white)
 ### OS
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
